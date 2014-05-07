@@ -1,0 +1,2 @@
+1) Change     cardHolder.add(workshopStart, "card4");            to           cardHolder.add(workshopStart, "card5");
+2) Change     selectPanelBox.setSelectedIndex(2);                to           selectPanelBox.setSelectedIndex(3);
